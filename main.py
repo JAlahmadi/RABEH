@@ -40,7 +40,7 @@ import shutil
 #AV_api_key = AVKey
 #openai.api_key = openAIKey
 AV_api_key = 'WXN32VQSZTFHZ1KK'
-openai.api_key = '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'
+openai.api_key = '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'
 
 
 print("Starting Financial document generator....")
